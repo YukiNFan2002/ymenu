@@ -23,3 +23,13 @@ Afterwards enter the following command to build and install ymenu
 Running ymenu
 -------------
 See the man page for details.
+
+
+Ymenu changes
+-------------
+-Added alpha patch, required extra flag in config.mk
+-Added center patch
+-Added border patch (5 by default)
+-Changed font size and font to source code pro
+-15 Lines (-l flag) by default
+-Patched in fuzzy match
