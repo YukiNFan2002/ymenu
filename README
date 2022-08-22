@@ -35,3 +35,4 @@ Ymenu changes
 -Patched in fuzzy match
 -Rebinded the Mod1+h/j/k/l keys to be more comfy/vim-like
 (Mod1+h pages up, Mod+l pages down, Mod1+j moves down, Mod1+k moves up) 
+-Patched in fuzzy highlight && changed some colors around
